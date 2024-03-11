@@ -27,7 +27,7 @@ Para este script es necesario tener **Python** y algunas dependencias adicionale
 Sigue estos pasos para empezar a usar el script y recolectar información de tu sistema:
 
 1. **Clona** el repositorio en tu máquina local:
-git clone [<URL_DEL_REPOSITORIO>](https://github.com/GodCatv2/godcat-grabber.git)
+git clone https://github.com/GodCatv2/godcat-grabber.git
 
 2. **Navega** al directorio del proyecto:
 cd godcat-grabber
@@ -41,5 +41,3 @@ python script.py
 Este código se ofrece **"tal cual"** y está creado con propósitos educativos como parte de un proyecto escolar. El uso indebido fuera de un entorno de aprendizaje controlado es responsabilidad del usuario. Recomendamos utilizar esta herramienta de manera responsable y ética.
 
 ---
-
-Con amor 💖 y código 👨‍💻 por [TuNombre](<URL_DE_TU_PERFIL_DE_GITHUB>).
