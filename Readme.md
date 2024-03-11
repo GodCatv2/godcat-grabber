@@ -19,7 +19,8 @@ Con este proyecto, obtendrás un script Python que es capaz de:
 
 ## 🔧 Requisitos Previos
 
-Para este script es necesario tener **Python** y algunas dependencias adicionales instaladas en tu sistema. Puedes instalarlas con facilidad utilizando `pip install -r requirements.txt`
+Para este script es necesario tener **Python** y algunas dependencias adicionales instaladas en tu sistema. Puedes instalarlas con facilidad utilizando:
+                `pip install -r requirements.txt`
 
 ## 🚀 Uso
 
