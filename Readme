@@ -1,0 +1,35 @@
+# Nombre del Proyecto
+
+Breve descripción del proyecto y su propósito.
+
+## Descripción
+
+En este proyecto, se proporciona un script Python que recopila información sobre la computadora local y la almacena en un archivo JSON. La información recopilada incluye detalles sobre la dirección IP pública y privada, información del sistema de archivos y almacenamiento disponible.
+
+## Características
+
+- Recopila la dirección IP pública y privada del equipo.
+- Obtiene información detallada sobre el almacenamiento disponible en el equipo.
+- Guarda los datos recopilados en un archivo JSON localmente o en un servidor remoto a través de SSH.
+
+## Requisitos Previos
+
+Antes de ejecutar el script, asegúrate de tener instalado Python en tu sistema. Además, algunas dependencias externas pueden ser necesarias, las cuales se pueden instalar utilizando `pip`. Verifica el archivo `requirements.txt` para obtener una lista completa de las dependencias y cómo instalarlas.
+
+## Uso
+
+1. Clona el repositorio a tu máquina local.
+2. Navega al directorio del proyecto.
+3. Instala las dependencias utilizando el siguiente comando:
+        pip install -r requirements.txt
+4. Ejecuta el script utilizando el siguiente comando:
+        python script.py
+5. El script generará un archivo JSON con la información recopilada en la carpeta local o la enviará a un servidor remoto según la configuración especificada en el script.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor crea una rama (branch) con el prefijo `feature/` seguido por el nombre de la característica que estás agregando o mejorando. Luego, envía un Pull Request con tus cambios.
+
+## Licencia
+
+Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT).
