@@ -26,10 +26,5 @@ Antes de ejecutar el script, asegúrate de tener instalado Python en tu sistema.
         python script.py
 5. El script generará un archivo JSON con la información recopilada en la carpeta local o la enviará a un servidor remoto según la configuración especificada en el script.
 
-## Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor crea una rama (branch) con el prefijo `feature/` seguido por el nombre de la característica que estás agregando o mejorando. Luego, envía un Pull Request con tus cambios.
-
-## Licencia
-
-Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT).
+Este codigo esta creado para fines educativos y forma parte de un proyecto escolar, cualquier uso con un fin que no sea con un proposito de aprender y sea usado en un entorno no controlado no nos hacemos responsables del daño que pueda hacer, recomendamos ser responsables y eticos.
