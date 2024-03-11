@@ -1,0 +1,3 @@
+pip install psutil==5.8.0
+requests==2.26.0
+paramiko==2.8.0
