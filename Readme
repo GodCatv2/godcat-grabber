@@ -1,30 +1,34 @@
 # Nombre del Proyecto
 
-Breve descripción del proyecto y su propósito.
+Breve descripción del proyecto y su propósito. Este script Python recopila información vital de la computadora local, brindando detalles clave sobre la conectividad y el almacenamiento del sistema, almacenando todo en un formato JSON fácil de interpretar.
 
-## Descripción
+## Descripción Detallada
 
-En este proyecto, se proporciona un script Python que recopila información sobre la computadora local y la almacena en un archivo JSON. La información recopilada incluye detalles sobre la dirección IP pública y privada, información del sistema de archivos y almacenamiento disponible.
+El proyecto consta de un script Python eficiente y fácil de usar que desempeña una función crítica: recolectar información detallada sobre tu máquina local. Esta información incluye, pero no se limita a, la dirección IP (tanto pública como privada), y datos detallados sobre el sistema de archivos y el almacenamiento disponible. Posteriormente, estos datos se almacenan meticulosamente en un archivo JSON, ya sea localmente o en un servidor remoto mediante SSH, según tus preferencias.
 
-## Características
+## Características Principales
 
-- Recopila la dirección IP pública y privada del equipo.
-- Obtiene información detallada sobre el almacenamiento disponible en el equipo.
-- Guarda los datos recopilados en un archivo JSON localmente o en un servidor remoto a través de SSH.
+- **Direcciones IP**: Recopilación de direcciones IP pública y privada para un entendimiento completo de la conectividad de red.
+- **Información del Almacenamiento**: Detalles exhaustivos sobre el almacenamiento disponible, brindando una visión clara del estado actual del sistema.
+- **Exportación en JSON**: Flexibilidad para guardar la información recopilada en un archivo JSON, facilitando su análisis y almacenamiento.
 
 ## Requisitos Previos
 
-Antes de ejecutar el script, asegúrate de tener instalado Python en tu sistema. Además, algunas dependencias externas pueden ser necesarias, las cuales se pueden instalar utilizando `pip`. Verifica el archivo `requirements.txt` para obtener una lista completa de las dependencias y cómo instalarlas.
+Para utilizar este script, asegúrate de tener Python instalado en tu sistema. Pueden ser necesarias algunas dependencias externas, que se instalan fácilmente mediante `pip`. Consulta `requirements.txt` para una lista completa y detallada de las dependencias.
 
-## Uso
+## Cómo Usarlo
 
-1. Clona el repositorio a tu máquina local.
+Sigue estos pasos para poner en marcha el script y empezar a recopilar información:
+
+1. Clona el repositorio en tu máquina local.
 2. Navega al directorio del proyecto.
-3. Instala las dependencias utilizando el siguiente comando:
-        pip install -r requirements.txt
-4. Ejecuta el script utilizando el siguiente comando:
-        python script.py
-5. El script generará un archivo JSON con la información recopilada en la carpeta local o la enviará a un servidor remoto según la configuración especificada en el script.
+3. Instala las dependencias con:
+pip install -r requirements.txt
+4. Ejecuta el script:
+python script.py
+5. ¡Listo! El script generará un archivo JSON con toda la información recopilada, almacenándolo localmente o enviándolo a un servidor remoto, según lo definas.
 
+## Nota Legal
 
-Este codigo esta creado para fines educativos y forma parte de un proyecto escolar, cualquier uso con un fin que no sea con un proposito de aprender y sea usado en un entorno no controlado no nos hacemos responsables del daño que pueda hacer, recomendamos ser responsables y eticos.
+Este código está creado con fines educativos como parte de un proyecto escolar. No somos responsables del uso indebido de este script fuera de un entorno de aprendizaje controlado. Recomendamos encarecidamente usar este script de manera responsable y ética.
+
